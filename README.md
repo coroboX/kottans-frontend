@@ -13,4 +13,4 @@ Front-End course with good self-ed path
 6. JavaScript Basics
 7. Document Object Model - practice
 # Advanced Topics
-...
+8. Building a Tiny JS World (pre-OOP) - practice
