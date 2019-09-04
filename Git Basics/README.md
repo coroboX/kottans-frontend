@@ -8,3 +8,7 @@
 * git pull/fetch with parameters are powerful
 6. ![ok](https://hsto.org/getpro/geektimes/post_images/3c8/389/355/3c8389355d934f4f78cc859b4699d3de.png) Upd the link in kottans-frontend repo
 7. ![ok](https://hsto.org/getpro/geektimes/post_images/3c8/389/355/3c8389355d934f4f78cc859b4699d3de.png) Viewed some extra tasks and materials
+
+![screenshot_for_udacity](git_udacity.png)
+![screenshot_for_learngitbranching](learngitbranching.js.org.png)
+![screenshot_for_learngitbranching_extra](learngitbranching.js.org_extra.png)
