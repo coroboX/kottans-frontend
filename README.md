@@ -4,7 +4,7 @@ Front-End course with good self-ed path
 ### In progress [#--][-----][-------]
 ## General Basics
 0. ![ok](img/done.png) [Git Basics](https://github.com/coroboX/kottans-frontend/tree/master/Git%20Basics)
-1. ![in progress](img/progress.png) Linux CLI and Networking
+1. ![in progress](img/done.png) [Linux CLI and Networking](https://github.com/coroboX/kottans-frontend/blob/master/task_linux_cli/)
 2. ![in progress](img/progress.png) VCS (hello gitty), GitHub and Collaboration
 # Front-End Basics
 3. ![in progress](img/progress.png) Intro to HTML & CSS
