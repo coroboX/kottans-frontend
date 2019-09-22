@@ -9,3 +9,6 @@
    * ![in progress](../img/progress.png) list your reflections on all subtasks
 3. ![in progress](../img/progress.png) Post a #done message in course channel
 4. ![in progress](../img/progress.png) Extra materials
+
+![Vercion control screenshot](git_udacity.png)
+![GitHub collaboration screenshot](git_collab_udacity.png)
